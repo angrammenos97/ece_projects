@@ -1,0 +1,23 @@
+{
+  "Use log file": true,
+  "Log file name": "log.txt",
+  "Live log": true,
+  "Queue size": 8,
+  "Number of producers": 1,
+  "Number of consumers": 1,
+  "Jobs": [
+    {
+      "Job ID": 0,
+      "Period in msec": 10,
+      "Number of executions": 50,
+      "Start delay in sec": 1,
+      "Use date": true,
+      "Year": 2020,
+      "Month": 7,
+      "Date": 24,
+      "Hour": 23,
+      "Minute": 59,
+      "Second": 59
+    }
+  ]
+}

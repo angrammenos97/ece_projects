@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,Play
+Sunny,Hot,High,No
+Sunny,Hot,Low,No
+Rainy,Hot,Low,Yes
+Rainy,Cool,High,Yes
+Rainy,Cool,Low,Yes
+Rainy,Hot,Low,No
+Rainy,Cool,Low,Yes
+Sunny,Hot,High,No
+Sunny,Cool,Low,Yes
+Rainy,Hot,Low,Yes
+Sunny,Cool,Low,Yes
+Rainy,Hot,High,Yes
+Rainy,Cool,Low,Yes
+Sunny,Cool,High,No

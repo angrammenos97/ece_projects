@@ -1,0 +1,49 @@
+{
+  "Use log file": true,
+  "Log file name": "log.txt",
+  "Live log": true,
+  "Queue size": 8,
+  "Number of producers": 3,
+  "Number of consumers": 1,
+  "Jobs": [
+    {
+      "Job ID": 1,
+      "Period in msec": 100,
+      "Number of executions": 36000,
+      "Start delay in sec": 1,
+      "Use date": false,
+      "Year": 2020,
+      "Month": 7,
+      "Date": 20,
+      "Hour": 11,
+      "Minute": 2,
+      "Second": 59
+    },
+    {
+      "Job ID": 2,
+      "Period in msec": 100,
+      "Number of executions": 36000,
+      "Start delay in sec": 1,
+      "Use date": false,
+      "Year": 1900,
+      "Month": 1,
+      "Date": 1,
+      "Hour": 0,
+      "Minute": 0,
+      "Second": 0
+    },
+    {
+      "Job ID": 2,
+      "Period in msec": 100,
+      "Number of executions": 36000,
+      "Start delay in sec": 1,
+      "Use date": false,
+      "Year": 1900,
+      "Month": 1,
+      "Date": 1,
+      "Hour": 0,
+      "Minute": 0,
+      "Second": 0
+    }
+  ]
+}

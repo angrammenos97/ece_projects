@@ -1,0 +1,9 @@
+Weather,Day,HighTraffic
+Hot,Vacation,No
+Cold,Work,Yes
+Normal,Work,No
+Cold,Weekend,Yes
+Normal,Weekend,Yes
+Cold,Work,No
+Hot,Work,No
+Hot,Vacation,Yes
