@@ -1,5 +1,5 @@
 # Pattern Recognition
-This repository contains materials for exercises from the Pattern Recognition course. Each exercise aims to provide hands-on experience with fundamental pattern recognition and machine learning algorithms, emphasizing both theoretical understanding and practical implementation.
+This repository contains materials for exercises from the *"Pattern Recognition"* course. Each exercise aims to provide hands-on experience with fundamental pattern recognition and machine learning algorithms, emphasizing both theoretical understanding and practical implementation.
 
 ## Exercises
 ### 1. Introduction to Python:

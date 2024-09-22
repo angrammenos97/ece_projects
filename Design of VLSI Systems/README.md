@@ -1,6 +1,6 @@
 # SR Flip-Flop
 ## Project Overview
-The goal of this assignment for the Design of VLSI Systems course was to design, analyze, and implement an SR Flip-Flop at the transistor level using Cadence Virtuoso. The project involved schematic design, simulation, and physical layout (Place and Route) of the circuit.
+The goal of this assignment for the *"Design of VLSI Systems"* course was to design, analyze, and implement an SR Flip-Flop at the transistor level using Cadence Virtuoso. The project involved schematic design, simulation, and physical layout (Place and Route) of the circuit.
 
 ## Schematic Design
 - Implemented an SR Flip-Flop circuit using nmos1v and pmos1v transistors

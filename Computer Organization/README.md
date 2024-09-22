@@ -4,11 +4,13 @@ This repository contains a collection of projects related to the *"Computer Orga
 ## Projects
 ### 1. Simple Function
 Performs basic arithmetic operations on four input integers. It adds the first two integers and subtracts the sum of the second two integers.
+
 $$
 f = (g + h) - (i + j)
 $$
 
 ### 2. Fibonacci Function
+
 Calculates the Fibonacci number of a given integer using recursion.
 $$
 F_0 = 0, F_1 = 1
@@ -23,6 +25,7 @@ Calculates the summation of two half-precision floating-point numbers using inte
 
 ### 4. Blocked Matrix Multiplication
 Performs matrix multiplication with blocking (tiling) optimization. This function utilizes cache performance by performing the matrix multiplication into smaller blocks.
+
 $$
 C_{i,j} = \sum_{k=0}^{K}A_{i,k}B_{k,j}
 $$
